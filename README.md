@@ -2,4 +2,4 @@
 Contributors:
 [Nikhil Ujjwal](https://github.com/NuApt),
 [Vishwas Saini](https://github.com/lil-spooky),
-[Hrishabh Nayal](https://github.com/NuApt).
+[Hrishabh Nayal](https://github.com/Hrishabh-Nayal).
